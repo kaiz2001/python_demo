@@ -48,3 +48,7 @@ else:
 # for
 for i in range(0, 10):
     print(i, end=" ")
+
+# while
+while False:
+    print("不会被执行")
